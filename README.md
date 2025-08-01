@@ -48,3 +48,5 @@ python3 destination_list_manager.py output_very_low.json
 - Google、Microsoft、Adobe等の高ボリュームドメインは自動除外されます
 - 既存のDestination Listがある場合は重複をスキップします
 - **このツールは検証目的で作成されています**
+
+<img width="1120" height="638" alt="image" src="https://github.com/user-attachments/assets/1678d5da-b8aa-4a1c-b5dc-b45c301c1aea" />
