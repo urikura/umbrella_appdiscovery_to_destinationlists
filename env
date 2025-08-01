@@ -3,7 +3,7 @@
 # このファイルを .env にコピーして、実際のAPI認証情報を設定してください
 # Copy this file to .env and configure your actual API credentials
 #
-# Cisco Umbrella Dashboard > Admin > API Keys > Policies で取得
+# Cisco Umbrella Dashboard > Admin > API Keys > Policies で取得（Read/Write)
 # Get these values from: Cisco Umbrella Dashboard > Admin > API Keys > Policies
 
 # Umbrella Policies API Key
