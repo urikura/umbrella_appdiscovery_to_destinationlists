@@ -1,0 +1,17 @@
+# Cisco Umbrella Policies API Configuration
+# 
+# このファイルを .env にコピーして、実際のAPI認証情報を設定してください
+# Copy this file to .env and configure your actual API credentials
+#
+# Cisco Umbrella Dashboard > Admin > API Keys > Policies で取得
+# Get these values from: Cisco Umbrella Dashboard > Admin > API Keys > Policies
+
+# Umbrella Policies API Key
+UMBRELLA_POLICIES_API_KEY=your_api_key_here
+
+# Umbrella Policies API Secret  
+UMBRELLA_POLICIES_API_SECRET=your_api_secret_here
+
+# 設定例 / Example:
+# UMBRELLA_POLICIES_API_KEY=abcd1234-5678-90ef-ghij-klmnopqrstuv
+# UMBRELLA_POLICIES_API_SECRET=wxyz9876543210fedcba0987654321abcdef1234567890
